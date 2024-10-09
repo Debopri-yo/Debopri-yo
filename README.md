@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning everything :"(
 - 🌱 I’m currently learning php,assembly
 - 💞️ I’m not good enough to collaborate on anything yet
-- 📫 How to reach me (mail-debopriyoghosh410@gmail.com)
+- 📫 How to reach me (debopriyoghosh410@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: there is no fun fact , there is no fun at all.
 
