@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning php,C++,python.
 - 💞️ I’m not good enough to collaborate on anything yet
 - 📫 How to reach me (debopriyoghosh410@gmail.com)
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: there is no fun fact , there is no fun at all.
 
 <!---
