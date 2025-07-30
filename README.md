@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Debopri-yo 
 - 👀 I’m currently interested in learning BASH,python.
 - 🌱 I’m currently learning php,C++,python.
-- 💞️ I’m not good enough to collaborate on anything yet
+- 💞️ I’m open to collab on web dev and system projects
 - 📫 How to reach me (debopriyoghosh410@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: there is no fun fact , there is no fun at all.
